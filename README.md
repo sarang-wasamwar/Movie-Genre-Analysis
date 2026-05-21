@@ -24,7 +24,7 @@ The project also applies Machine Learning using Random Forest Regression to pred
 ## 👨‍💻 Team Members
 
 - Sarang Wasamwar
-- Ayush Thakare [GitHub Link: ]
+- Ayush Thakare [GitHub Link: https://github.com/Ayu5h-2005 ]
 - Shubham Navale [GitHub Link: ]
 
 ---
@@ -245,7 +245,7 @@ Budget significantly influences movie revenue.
 
 ### Example Prediction
 
-Predicted Rating: **6.48 / 10**
+Predicted Rating: **7.72 / 10**
 
 For a movie with:
 - Budget: 120 Million
