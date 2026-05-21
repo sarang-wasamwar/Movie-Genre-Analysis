@@ -24,10 +24,8 @@ The project also applies Machine Learning using Random Forest Regression to pred
 ## 👨‍💻 Team Members
 
 - Sarang Wasamwar
-- Ayush Thakare
-- Shubham Navale
-
-Presented to: **Dr. Shaziya Shaikh**
+- Ayush Thakare [GitHub Link: ]
+- Shubham Navale [GitHub Link: ]
 
 ---
 
