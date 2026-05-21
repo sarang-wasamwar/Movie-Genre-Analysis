@@ -25,7 +25,7 @@ The project also applies Machine Learning using Random Forest Regression to pred
 
 - Sarang Wasamwar
 - Ayush Thakare [GitHub Link: https://github.com/Ayu5h-2005 ]
-- Shubham Navale [GitHub Link: ]
+- Shubham Navale [GitHub Link: https://github.com/Shubham21042007 ]
 
 ---
 
